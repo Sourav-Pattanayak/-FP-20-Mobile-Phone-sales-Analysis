@@ -1,2 +1,2 @@
-# -FP-20-Mobile-Phone-sales-Analysis
-This Power BI project focuses on Mobile Phone Sales Analysis, providing insights to enhance net sales in 2023.
+# FP-20-Mobile-Phone-sales-Analysis
+In this project, I have worked on generating a Mobile Phone Sales Analysis report for a client's Business Intelligence Solution. Leveraging Power BI, I explored sales trends, seasonal patterns, inventory costs, net profits, top-selling brands, successful sales representatives, and optimized sales strategies. Using historical data, I provided insights on best-performing countries and potential sales trends for 2023, aiming to guide the client's decision-making process for enhanced net sales.
